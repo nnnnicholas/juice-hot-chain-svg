@@ -13,11 +13,14 @@
     "singleQuote": true
   },
   "dependencies": {
+    "@ensdomains/ens-contracts": "^0.0.17",
     "@ethereumjs/vm": "^5.8.0",
     "@ethersproject/abi": "^5.6.0",
+    "@jbx-protocol/juice-contracts-v3": "^2.0.5",
+    "@jbx-protocol/project-handles": "^2.0.4",
     "@openzeppelin/contracts": "^4.5.0",
     "ethers": "^5.6.8",
-    "solc": "^0.8.13",
+    "solc": "^0.8.16",
     "xmldom": "^0.6.0"
   },
   "devDependencies": {
